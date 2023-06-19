@@ -29,3 +29,7 @@ Windows Form Data Added To Listbox:
 Windows Form Data Saved To File:
 
 ![alt text](https://github.com/JLAGCU/CST-250-ACTIVITY-6/blob/main/Images/Windows%20Form%205.png?raw=true)
+
+Console Application: Printing all scores, Printing best scores, Printing all scores in order, printing all scores between 80-89%, and printing grades from students in an arraylist with scores between 80-89%
+
+![alt text](https://github.com/JLAGCU/CST-250-ACTIVITY-6/blob/main/Images/Console%20App%202.png?raw=true)
