@@ -1,0 +1,11 @@
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\TextFileDataAccessDemo\Person Form\obj\Debug\Person Form.csproj.AssemblyReference.cache
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\TextFileDataAccessDemo\Person Form\obj\Debug\Person Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\TextFileDataAccessDemo\Person Form\obj\Debug\Person_Form.Properties.Resources.resources
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\TextFileDataAccessDemo\Person Form\obj\Debug\Person Form.csproj.GenerateResource.cache
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\TextFileDataAccessDemo\Person Form\obj\Debug\Person Form.csproj.CoreCompileInputs.cache
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\TextFileDataAccessDemo\Person Form\bin\Debug\Person Form.exe.config
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\TextFileDataAccessDemo\Person Form\bin\Debug\Person Form.exe
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\TextFileDataAccessDemo\Person Form\bin\Debug\Person Form.pdb
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\TextFileDataAccessDemo\Person Form\obj\Debug\Person Form.exe
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\TextFileDataAccessDemo\Person Form\obj\Debug\Person Form.pdb
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\TextFileDataAccessDemo\Person Form\obj\Debug\Form1.Form1.resources

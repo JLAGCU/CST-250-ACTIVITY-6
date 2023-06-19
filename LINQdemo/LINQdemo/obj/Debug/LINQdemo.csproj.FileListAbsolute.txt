@@ -1,0 +1,8 @@
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\LINQdemo\LINQdemo\bin\Debug\LINQdemo.exe.config
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\LINQdemo\LINQdemo\bin\Debug\LINQdemo.exe
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\LINQdemo\LINQdemo\bin\Debug\LINQdemo.pdb
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\LINQdemo\LINQdemo\obj\Debug\LINQdemo.csproj.AssemblyReference.cache
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\LINQdemo\LINQdemo\obj\Debug\LINQdemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\LINQdemo\LINQdemo\obj\Debug\LINQdemo.csproj.CoreCompileInputs.cache
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\LINQdemo\LINQdemo\obj\Debug\LINQdemo.exe
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\LINQdemo\LINQdemo\obj\Debug\LINQdemo.pdb

@@ -1,0 +1,10 @@
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\TextFileDataAccessDemo\TextFileDataAccessDemo\bin\Debug\TextFileDataAccessDemo.exe.config
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\TextFileDataAccessDemo\TextFileDataAccessDemo\bin\Debug\TextFileDataAccessDemo.exe
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\TextFileDataAccessDemo\TextFileDataAccessDemo\bin\Debug\TextFileDataAccessDemo.pdb
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\TextFileDataAccessDemo\TextFileDataAccessDemo\obj\Debug\TextFileDataAccessDemo.csproj.AssemblyReference.cache
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\TextFileDataAccessDemo\TextFileDataAccessDemo\obj\Debug\TextFileDataAccessDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\TextFileDataAccessDemo\TextFileDataAccessDemo\obj\Debug\TextFileDataAccessDemo.csproj.CoreCompileInputs.cache
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\TextFileDataAccessDemo\TextFileDataAccessDemo\obj\Debug\TextFileDataAccessDemo.exe
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\TextFileDataAccessDemo\TextFileDataAccessDemo\obj\Debug\TextFileDataAccessDemo.pdb
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\TextFileDataAccessDemo\TextFileDataAccessDemo\obj\Debug\TextFileDataAccessDemo.Form1.resources
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\TextFileDataAccessDemo\TextFileDataAccessDemo\obj\Debug\TextFileDataAccessDemo.csproj.GenerateResource.cache
